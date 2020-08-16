@@ -28,7 +28,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 Package: com.aortech.kodi
 Version: 1.0.0-1
-Section: Tweaks
+Section: Kodi
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
@@ -37,6 +37,6 @@ Size: 75
 MD5sum:
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Kodi
-Author: ismael Ortiz Creater of aortiz294 Gaming and aor Tech Enterprises repo
-Depiction:
+Author: ismael Ortiz
+Depiction: None
 
