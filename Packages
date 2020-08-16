@@ -34,7 +34,7 @@ Depends: firmware (<7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.aortech.kodi_1.0.0-1_iphoneos-arm.deb
 Size: 75
-MD5sum:
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Kodi
 Author: ismael Ortiz
